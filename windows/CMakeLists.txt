@@ -1,5 +1,5 @@
 # Project-level configuration.
-set(CMAKE_POLICY_VERSION_MINIMUM 3.5)
+set(CMAKE_POLICY_VERSION_MINIMUM 3.10)
 cmake_minimum_required(VERSION 3.14)
 project(mad_ps_2 LANGUAGES CXX)
 
